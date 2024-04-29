@@ -2,7 +2,10 @@
   "name": "redirect-ssl",
   "version": "3.0.0",
   "description": "Connect/Express middleware to enforce https",
-  "repository": "unjs/redirect-ssl",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unjs/redirect-ssl.git"
+  },
   "license": "MIT",
   "sideEffects": false,
   "exports": {
